@@ -6,6 +6,7 @@
     <mapping directory="$PROJECT_DIR$/../RM15" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../RM16" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../RMDraw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../SnapBuilder" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../SnapCharts" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../SnapKit" vcs="Git" />
