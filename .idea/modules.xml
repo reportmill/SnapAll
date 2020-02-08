@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ComicScript/ComicScript.iml" filepath="$PROJECT_DIR$/../ComicScript/ComicScript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Puppets/Puppets.iml" filepath="$PROJECT_DIR$/../Puppets/Puppets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RM15/RM15.iml" filepath="$PROJECT_DIR$/../RM15/RM15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RM15Tests/RM15Tests.iml" filepath="$PROJECT_DIR$/../RM15Tests/RM15Tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RM16/RM16.iml" filepath="$PROJECT_DIR$/../RM16/RM16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RMDraw/RMDraw.iml" filepath="$PROJECT_DIR$/../RMDraw/RMDraw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SnapAll.iml" filepath="$PROJECT_DIR$/SnapAll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SnapBuilder/SnapBuilder.iml" filepath="$PROJECT_DIR$/../SnapBuilder/SnapBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SnapCharts/SnapCharts.iml" filepath="$PROJECT_DIR$/../SnapCharts/SnapCharts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SnapKit/SnapKit.iml" filepath="$PROJECT_DIR$/../SnapKit/SnapKit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SnapPDF/SnapPDF.iml" filepath="$PROJECT_DIR$/../SnapPDF/SnapPDF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SnapStudio/SnapStudio.iml" filepath="$PROJECT_DIR$/../SnapStudio/SnapStudio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SnapTea/SnapTea.iml" filepath="$PROJECT_DIR$/../SnapTea/SnapTea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TVMApps/TVMApps.iml" filepath="$PROJECT_DIR$/../TVMApps/TVMApps.iml" />
+    </modules>
+  </component>
+</project>

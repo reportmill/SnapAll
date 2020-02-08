@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1436424c-fd4c-4cbe-98f7-6fadeca276bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ComicScript" />
+  </component>
+  <component name="ProjectId" id="1TJRjGnXP7jDA49KQuy7tRTBDkV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="JavaClassFindUsagesOptions.isSearchForTextOccurrences" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RM16/src/reportmill/app" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.25875" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../RM15/src/com/reportmill/app/RMEditorPane.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../RM16/src/reportmill/apptools/pkg.images" />
+      <recent name="$PROJECT_DIR$/../RM16/src/reportmill/apptools" />
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="reportmill.apptools" />
+      <recent name="reportmill.shape" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="reportmill.app" />
+      <recent name="reportmill.util" />
+      <recent name="com.reportmill.app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../RM16/src/reportmill/app" />
+      <recent name="$PROJECT_DIR$/../RM16/src/reportmill" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ComicScript">
+    <configuration name="ComicScript" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="comics.app.App" />
+      <module name="ComicScript" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ComicScript" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Puppets" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="puppets.app.App" />
+      <module name="Puppets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Puppets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RM15" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="reportmill.app.App" />
+      <module name="RMDraw" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RM16" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="reportmill.app.App" />
+      <module name="RM16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../RM16" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RMDraw" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="rmdraw.app.App" />
+      <module name="RMDraw" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../RMDraw" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnapBuilder" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="snapbuild.app.App" />
+      <module name="SnapBuilder" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../SnapBuilder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnapCharts" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="snap.charts.App" />
+      <module name="SnapCharts" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnapStudio" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="studio.app.App" />
+      <module name="SnapStudio" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../SnapStudio" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_RM_Internal_Frame" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tests.JIntFrameTest" />
+      <module name="RM15Tests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TVBusyBox" type="TeaVMDevServerConfiguration" factoryName="TeaVM development server">
+      <module name="TVMApps" />
+      <teavm show_console_on_std_err="false" show_console_on_std_out="false">
+        <option name="allowRunningInParallel" value="false" />
+        <automaticallyReloaded>false</automaticallyReloaded>
+        <deobfuscateStack>true</deobfuscateStack>
+        <fileName>classes.js</fileName>
+        <indicator>true</indicator>
+        <mainClass>tvmapps.TVBusyBox</mainClass>
+        <maxHeap>1024</maxHeap>
+        <pathToFile>teavm</pathToFile>
+        <port>9090</port>
+        <proxyPath />
+        <proxyUrl>http://localhost:8080</proxyUrl>
+      </teavm>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TVTextPane" type="TeaVMDevServerConfiguration" factoryName="TeaVM development server">
+      <module name="TVMApps" />
+      <teavm show_console_on_std_err="false" show_console_on_std_out="false">
+        <option name="allowRunningInParallel" value="false" />
+        <automaticallyReloaded>false</automaticallyReloaded>
+        <deobfuscateStack>true</deobfuscateStack>
+        <fileName>classes.js</fileName>
+        <indicator>true</indicator>
+        <mainClass>tvmapps.TVTextPane</mainClass>
+        <maxHeap>1024</maxHeap>
+        <pathToFile>teavm</pathToFile>
+        <port>9090</port>
+        <proxyPath />
+        <proxyUrl>http://localhost:8080</proxyUrl>
+      </teavm>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RM15" />
+      <item itemvalue="Application.Test_RM_Internal_Frame" />
+      <item itemvalue="Application.SnapBuilder" />
+      <item itemvalue="Application.ComicScript" />
+      <item itemvalue="Application.Puppets" />
+      <item itemvalue="Application.SnapStudio" />
+      <item itemvalue="Application.RMDraw" />
+      <item itemvalue="Application.RM16" />
+      <item itemvalue="Application.SnapCharts" />
+      <item itemvalue="TeaVM development server.TVTextPane" />
+      <item itemvalue="TeaVM development server.TVBusyBox" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1436424c-fd4c-4cbe-98f7-6fadeca276bb" name="Default Changelist" comment="" />
+      <created>1573176344219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573176344219</updated>
+      <workItem from="1573176345561" duration="287000" />
+      <workItem from="1573176785664" duration="266000" />
+      <workItem from="1574023355936" duration="117000" />
+      <workItem from="1574115215140" duration="646000" />
+      <workItem from="1574285453399" duration="3073000" />
+      <workItem from="1574628906174" duration="105000" />
+      <workItem from="1574629028330" duration="15853000" />
+      <workItem from="1575381412594" duration="2446000" />
+      <workItem from="1576441367863" duration="95000" />
+      <workItem from="1576441689572" duration="112000" />
+      <workItem from="1576639405795" duration="4259000" />
+      <workItem from="1577131111924" duration="29471000" />
+      <workItem from="1577658650044" duration="247000" />
+      <workItem from="1577659164458" duration="4188000" />
+      <workItem from="1577676603758" duration="40000" />
+      <workItem from="1577676725900" duration="283000" />
+      <workItem from="1577677128803" duration="7279000" />
+      <workItem from="1579466036322" duration="3482000" />
+      <workItem from="1580076160873" duration="2799000" />
+      <workItem from="1580151907411" duration="6745000" />
+      <workItem from="1580166703667" duration="4358000" />
+      <workItem from="1580225324366" duration="21000" />
+      <workItem from="1580225352973" duration="9484000" />
+      <workItem from="1580240758667" duration="9884000" />
+      <workItem from="1580262551634" duration="9533000" />
+      <workItem from="1580318964963" duration="25443000" />
+      <workItem from="1581173078095" duration="224000" />
+    </task>
+    <task id="LOCAL-00001" summary="WindowHpr: Added viewToScreen(View,x,y) to provide hook when using Snap embedded in non-snap Swing UI.&#10;View.localToScreen(x,y): Changed to use WindowHpr.viewToScreen">
+      <created>1574714599833</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574714599833</updated>
+    </task>
+    <task id="LOCAL-00002" summary="SWWindowHpr: Fix for dialogs with parent window.">
+      <created>1577052111606</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577052111606</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update path">
+      <created>1577052164665</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577052164666</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ViewProxy: Added this class to improve layout.">
+      <created>1577491786891</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577491786891</updated>
+    </task>
+    <task id="LOCAL-00005" summary="BorderView: Fixed to get RowProxy from parent (instead of shared)&#10;ViewProxy: Various fixes.">
+      <created>1577714802898</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577714802898</updated>
+    </task>
+    <task id="LOCAL-00006" summary="BorderView: Fixed to get RowProxy from parent (instead of shared)&#10;ViewProxy: Various fixes.">
+      <created>1580076834611</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580076834611</updated>
+    </task>
+    <task id="LOCAL-00007" summary="RowView: Add test code">
+      <created>1580078082421</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580078082421</updated>
+    </task>
+    <task id="LOCAL-00008" summary="GFXEnv, AWTEnv: Added getResource(class,path)&#10;ParseHander: Made getPartClass() default impl throw exception instead of nasty reflection&#10;WebGetter: Got rid hand handler">
+      <created>1580174959975</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580174959975</updated>
+    </task>
+    <task id="LOCAL-00009" summary="TVEnv: Added new getResource(class,path) which fixed weird WebGetter.hpr thing">
+      <created>1580175050834</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580175050834</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update module config">
+      <created>1580225722321</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580225722321</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Removed RMSubreport and ViewShape.">
+      <created>1580241541619</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1580241541619</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Deleted RMNestedDoc, RMText">
+      <created>1580244728193</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1580244728193</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Some cleanup">
+      <created>1580247040934</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1580247040934</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Renamed RMEditor and friends to Editor.">
+      <created>1580247873817</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1580247873817</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Moved some editor/editorpane code from RMDraw to RM16.">
+      <created>1580261670902</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1580261670902</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Updated IDEA settings">
+      <created>1580262238575</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1580262238575</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Renamed package">
+      <created>1580262939969</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1580262939969</updated>
+    </task>
+    <task id="LOCAL-00018" summary="RMDraw: Renamed com.reportmill package to rmdraw">
+      <created>1580264689454</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1580264689454</updated>
+    </task>
+    <task id="LOCAL-00019" summary="RM16: Renamed com.reportmill package to reportmill">
+      <created>1580264742664</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1580264742664</updated>
+    </task>
+    <task id="LOCAL-00020" summary="RMExtras: Moved from RMDraw to RM16.">
+      <created>1580266206006</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1580266206006</updated>
+    </task>
+    <task id="LOCAL-00021" summary="EditorDnd: Moved RMTool dragDrop() code to editorDnd.">
+      <created>1580317261571</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1580317261571</updated>
+    </task>
+    <task id="LOCAL-00022" summary="DatasetKeyPanel: Moved this from RMDraw to RM16&#10;KeysPanel: Moved this from RMDraw to RM16&#10;RMAttributesPanel: Added this subclass to create KeysPanel instead of RMDraw&#10;RMEditorDnd: Added this to trigger KeysPanel">
+      <created>1580319527130</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1580319527130</updated>
+    </task>
+    <task id="LOCAL-00023" summary="RMColor: Got rid of this">
+      <created>1580327309839</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1580327309839</updated>
+    </task>
+    <task id="LOCAL-00024" summary="RMFont: Got rid of this">
+      <created>1580329063298</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1580329063298</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Moved examples from RMDraw to RM16">
+      <created>1580330271230</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1580330271230</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Fix stupidity">
+      <created>1580330492358</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1580330492358</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Moved PrefsPanel and AppLoader from RMDraw to RM16">
+      <created>1580332665907</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1580332665907</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Moved RMLabels, RMLabelsTool from RMDraw to RM16">
+      <created>1580352817974</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1580352817974</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Removed some RMPDFShape references.">
+      <created>1580503912832</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1580503912832</updated>
+    </task>
+    <task id="LOCAL-00030" summary="RM16: Moved RMGraph classes from RMDraw to here">
+      <created>1580506241809</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1580506241809</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Idea updates">
+      <created>1580519366633</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1580519366633</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="RowView: Add test code" />
+    <MESSAGE value="GFXEnv, AWTEnv: Added getResource(class,path)&#10;ParseHander: Made getPartClass() default impl throw exception instead of nasty reflection&#10;WebGetter: Got rid hand handler" />
+    <MESSAGE value="TVEnv: Added new getResource(class,path) which fixed weird WebGetter.hpr thing" />
+    <MESSAGE value="Update module config" />
+    <MESSAGE value="Removed RMSubreport and ViewShape." />
+    <MESSAGE value="Deleted RMNestedDoc, RMText" />
+    <MESSAGE value="Some cleanup" />
+    <MESSAGE value="Renamed RMEditor and friends to Editor." />
+    <MESSAGE value="Moved some editor/editorpane code from RMDraw to RM16." />
+    <MESSAGE value="Updated IDEA settings" />
+    <MESSAGE value="Renamed package" />
+    <MESSAGE value="RMDraw: Renamed com.reportmill package to rmdraw" />
+    <MESSAGE value="RM16: Renamed com.reportmill package to reportmill" />
+    <MESSAGE value="RMExtras: Moved from RMDraw to RM16." />
+    <MESSAGE value="EditorDnd: Moved RMTool dragDrop() code to editorDnd." />
+    <MESSAGE value="DatasetKeyPanel: Moved this from RMDraw to RM16&#10;KeysPanel: Moved this from RMDraw to RM16&#10;RMAttributesPanel: Added this subclass to create KeysPanel instead of RMDraw&#10;RMEditorDnd: Added this to trigger KeysPanel" />
+    <MESSAGE value="RMColor: Got rid of this" />
+    <MESSAGE value="RMFont: Got rid of this" />
+    <MESSAGE value="Moved examples from RMDraw to RM16" />
+    <MESSAGE value="Fix stupidity" />
+    <MESSAGE value="Moved PrefsPanel and AppLoader from RMDraw to RM16" />
+    <MESSAGE value="Moved RMLabels, RMLabelsTool from RMDraw to RM16" />
+    <MESSAGE value="Removed some RMPDFShape references." />
+    <MESSAGE value="RM16: Moved RMGraph classes from RMDraw to here" />
+    <MESSAGE value="Idea updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Idea updates" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="393" key="#RMDraw" timestamp="1580238449926">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state x="436" y="393" key="#RMDraw/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580238449926" />
+    <state x="548" y="506" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580510313882">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state x="654" y="313" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1725.1097@0.23.1725.1097" timestamp="1579614603039" />
+    <state x="548" y="506" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580510313882" />
+    <state x="432" y="514" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1580504489947">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state x="432" y="514" key="#com.intellij.ide.util.PackageChooserDialog/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580504489947" />
+    <state x="699" y="597" width="471" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580504495292">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state x="699" y="597" width="471" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580504495292" />
+    <state x="458" y="618" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1580263336257">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state x="458" y="618" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580263336257" />
+    <state x="431" y="487" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580230646769">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state x="431" y="487" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580230646769" />
+    <state x="1688" y="588" key="#xdebugger.evaluate" timestamp="1577559693973">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state x="1688" y="588" key="#xdebugger.evaluate/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1577559693973" />
+    <state x="896" y="217" width="1164" height="1154" key="CommitChangelistDialog2" timestamp="1581173333435">
+      <screen x="0" y="23" width="1722" height="1097" />
+    </state>
+    <state x="896" y="217" key="CommitChangelistDialog2/0.23.1722.1097@0.23.1722.1097" timestamp="1581173333435" />
+    <state x="1291" y="273" width="1164" height="1154" key="CommitChangelistDialog2/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580519366428" />
+    <state x="1293" y="273" key="CommitChangelistDialog2/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580332665708" />
+    <state x="1294" y="273" key="CommitChangelistDialog2/0.23.2487.1417/-1792.23.1792.1097@0.23.2487.1417" timestamp="1580317261423" />
+    <state width="436" height="466" key="DebuggerActiveHint" timestamp="1577559596949">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state width="436" height="466" key="DebuggerActiveHint/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1577559596949" />
+    <state x="856" y="73" width="1624" height="1254" key="DiffContextDialog" timestamp="1580503883934">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state x="70" y="100" width="1401" height="903" key="DiffContextDialog/0.23.1725.1097@0.23.1725.1097" timestamp="1578339906594" />
+    <state x="856" y="73" width="1624" height="1254" key="DiffContextDialog/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580503883934" />
+    <state width="1827" height="407" key="GridCell.Tab.0.bottom" timestamp="1580668656102">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state width="1344" height="203" key="GridCell.Tab.0.bottom/0.23.1722.1097@0.23.1722.1097" timestamp="1579397996194" />
+    <state width="1344" height="203" key="GridCell.Tab.0.bottom/0.23.1725.1097@0.23.1725.1097" timestamp="1578340707914" />
+    <state width="1344" height="340" key="GridCell.Tab.0.bottom/0.23.1728.1097@0.23.1728.1097" timestamp="1576639524840" />
+    <state width="1827" height="407" key="GridCell.Tab.0.bottom/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580668656102" />
+    <state width="1344" height="203" key="GridCell.Tab.0.bottom/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1579466024843" />
+    <state width="1827" height="320" key="GridCell.Tab.0.bottom/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580352337156" />
+    <state width="1827" height="407" key="GridCell.Tab.0.center" timestamp="1580668656101">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state width="1344" height="203" key="GridCell.Tab.0.center/0.23.1722.1097@0.23.1722.1097" timestamp="1579397996193" />
+    <state width="1344" height="203" key="GridCell.Tab.0.center/0.23.1725.1097@0.23.1725.1097" timestamp="1578340707913" />
+    <state width="1344" height="340" key="GridCell.Tab.0.center/0.23.1728.1097@0.23.1728.1097" timestamp="1576639524836" />
+    <state width="1827" height="407" key="GridCell.Tab.0.center/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580668656101" />
+    <state width="1344" height="203" key="GridCell.Tab.0.center/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1579466024842" />
+    <state width="1827" height="320" key="GridCell.Tab.0.center/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580352337155" />
+    <state width="1827" height="407" key="GridCell.Tab.0.left" timestamp="1580668656101">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state width="1344" height="203" key="GridCell.Tab.0.left/0.23.1722.1097@0.23.1722.1097" timestamp="1579397996192" />
+    <state width="1344" height="203" key="GridCell.Tab.0.left/0.23.1725.1097@0.23.1725.1097" timestamp="1578340707913" />
+    <state width="1344" height="340" key="GridCell.Tab.0.left/0.23.1728.1097@0.23.1728.1097" timestamp="1576639524834" />
+    <state width="1827" height="407" key="GridCell.Tab.0.left/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580668656101" />
+    <state width="1344" height="203" key="GridCell.Tab.0.left/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1579466024842" />
+    <state width="1827" height="320" key="GridCell.Tab.0.left/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580352337147" />
+    <state width="1827" height="407" key="GridCell.Tab.0.right" timestamp="1580668656102">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state width="1344" height="203" key="GridCell.Tab.0.right/0.23.1722.1097@0.23.1722.1097" timestamp="1579397996194" />
+    <state width="1344" height="203" key="GridCell.Tab.0.right/0.23.1725.1097@0.23.1725.1097" timestamp="1578340707913" />
+    <state width="1344" height="340" key="GridCell.Tab.0.right/0.23.1728.1097@0.23.1728.1097" timestamp="1576639524838" />
+    <state width="1827" height="407" key="GridCell.Tab.0.right/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580668656102" />
+    <state width="1344" height="203" key="GridCell.Tab.0.right/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1579466024843" />
+    <state width="1827" height="320" key="GridCell.Tab.0.right/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580352337155" />
+    <state width="1827" height="320" key="GridCell.Tab.1.bottom" timestamp="1580668656099">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state width="1344" height="203" key="GridCell.Tab.1.bottom/0.23.1722.1097@0.23.1722.1097" timestamp="1579397996019" />
+    <state width="1344" height="203" key="GridCell.Tab.1.bottom/0.23.1725.1097@0.23.1725.1097" timestamp="1578340707915" />
+    <state width="1344" height="340" key="GridCell.Tab.1.bottom/0.23.1728.1097@0.23.1728.1097" timestamp="1576639524614" />
+    <state width="1827" height="320" key="GridCell.Tab.1.bottom/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580668656099" />
+    <state width="1344" height="203" key="GridCell.Tab.1.bottom/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1579466024844" />
+    <state width="1827" height="320" key="GridCell.Tab.1.bottom/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580332706304" />
+    <state width="1827" height="320" key="GridCell.Tab.1.center" timestamp="1580668656098">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state width="1344" height="203" key="GridCell.Tab.1.center/0.23.1722.1097@0.23.1722.1097" timestamp="1579397996019" />
+    <state width="1344" height="203" key="GridCell.Tab.1.center/0.23.1725.1097@0.23.1725.1097" timestamp="1578340707914" />
+    <state width="1344" height="340" key="GridCell.Tab.1.center/0.23.1728.1097@0.23.1728.1097" timestamp="1576639524613" />
+    <state width="1827" height="320" key="GridCell.Tab.1.center/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580668656098" />
+    <state width="1344" height="203" key="GridCell.Tab.1.center/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1579466024844" />
+    <state width="1827" height="320" key="GridCell.Tab.1.center/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580332706304" />
+    <state width="1827" height="320" key="GridCell.Tab.1.left" timestamp="1580668656098">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state width="1344" height="203" key="GridCell.Tab.1.left/0.23.1722.1097@0.23.1722.1097" timestamp="1579397996019" />
+    <state width="1344" height="203" key="GridCell.Tab.1.left/0.23.1725.1097@0.23.1725.1097" timestamp="1578340707914" />
+    <state width="1344" height="340" key="GridCell.Tab.1.left/0.23.1728.1097@0.23.1728.1097" timestamp="1576639524613" />
+    <state width="1827" height="320" key="GridCell.Tab.1.left/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580668656098" />
+    <state width="1344" height="203" key="GridCell.Tab.1.left/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1579466024843" />
+    <state width="1827" height="320" key="GridCell.Tab.1.left/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580332706304" />
+    <state width="1827" height="320" key="GridCell.Tab.1.right" timestamp="1580668656099">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state width="1344" height="203" key="GridCell.Tab.1.right/0.23.1722.1097@0.23.1722.1097" timestamp="1579397996019" />
+    <state width="1344" height="203" key="GridCell.Tab.1.right/0.23.1725.1097@0.23.1725.1097" timestamp="1578340707914" />
+    <state width="1344" height="340" key="GridCell.Tab.1.right/0.23.1728.1097@0.23.1728.1097" timestamp="1576639524614" />
+    <state width="1827" height="320" key="GridCell.Tab.1.right/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580668656099" />
+    <state width="1344" height="203" key="GridCell.Tab.1.right/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1579466024844" />
+    <state width="1827" height="320" key="GridCell.Tab.1.right/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580332706304" />
+    <state x="723" y="157" key="NewModule_or_Project.wizard" timestamp="1580510276377">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state x="503" y="127" key="NewModule_or_Project.wizard/0.23.1725.1097@0.23.1725.1097" timestamp="1578340067573" />
+    <state x="723" y="157" key="NewModule_or_Project.wizard/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580510276377" />
+    <state x="514" y="445" key="RollbackChangesDialog" timestamp="1580500580613">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state x="514" y="445" key="RollbackChangesDialog/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580500580613" />
+    <state x="342" y="227" width="1042" height="566" key="SettingsEditor" timestamp="1581173301599">
+      <screen x="0" y="23" width="1722" height="1097" />
+    </state>
+    <state x="342" y="227" width="1042" height="566" key="SettingsEditor/0.23.1722.1097@0.23.1722.1097" timestamp="1581173301599" />
+    <state x="426" y="140" width="1160" height="583" key="SettingsEditor/0.23.1725.1097@0.23.1725.1097" timestamp="1579630502060" />
+    <state x="493" y="286" width="1337" height="722" key="SettingsEditor/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580510704710" />
+    <state x="733" y="196" key="SettingsEditor/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1579465789288" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1580501385743">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580501385743" />
+    <state x="922" y="354" key="Vcs.Push.Dialog.v2" timestamp="1581173336428">
+      <screen x="0" y="23" width="1722" height="1097" />
+    </state>
+    <state x="922" y="354" key="Vcs.Push.Dialog.v2/0.23.1722.1097@0.23.1722.1097" timestamp="1581173336428" />
+    <state x="1468" y="450" key="Vcs.Push.Dialog.v2/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580519369302" />
+    <state x="1470" y="450" key="Vcs.Push.Dialog.v2/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580332668096" />
+    <state x="1472" y="450" key="Vcs.Push.Dialog.v2/0.23.2487.1417/-1792.23.1792.1097@0.23.2487.1417" timestamp="1580317263581" />
+    <state x="100" y="123" width="1672" height="1217" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1580331373371">
+      <screen x="0" y="23" width="2484" height="1417" />
+    </state>
+    <state x="100" y="123" width="1669" height="1217" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580330476493" />
+    <state x="100" y="123" width="1672" height="1217" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580331373371" />
+    <state x="621" y="443" key="com.intellij.ide.util.TipDialog" timestamp="1581173084320">
+      <screen x="0" y="23" width="1722" height="1097" />
+    </state>
+    <state x="621" y="443" key="com.intellij.ide.util.TipDialog/0.23.1722.1097@0.23.1722.1097" timestamp="1581173084320" />
+    <state x="622" y="443" key="com.intellij.ide.util.TipDialog/0.23.1725.1097@0.23.1725.1097" timestamp="1576639432710" />
+    <state x="894" y="565" key="com.intellij.ide.util.TipDialog/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580318964878" />
+    <state x="894" y="565" key="com.intellij.ide.util.TipDialog/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1579466036791" />
+    <state x="240" y="472" width="905" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1577714499006">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state x="240" y="472" width="905" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1577714499006" />
+    <state x="1554" y="295" width="864" height="985" key="find.popup" timestamp="1580510910526">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state x="1554" y="295" width="864" height="985" key="find.popup/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580510910526" />
+    <state x="1751" y="307" width="705" height="693" key="find.popup/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580352437349" />
+    <state x="486" y="588" key="git4idea.ui.GitTagDialog" timestamp="1580075369577">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state x="486" y="588" key="git4idea.ui.GitTagDialog/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580075369577" />
+    <state x="534" y="265" key="new project wizard" timestamp="1580076200495">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state x="534" y="265" key="new project wizard/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580076200495" />
+    <state x="359" y="344" width="670" height="675" key="run.anything.popup" timestamp="1577222455036">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state x="359" y="344" width="670" height="675" key="run.anything.popup/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1577222455036" />
+    <state x="515" y="337" width="961" height="874" key="search.everywhere.popup" timestamp="1580505974985">
+      <screen x="0" y="23" width="2481" height="1417" />
+    </state>
+    <state x="359" y="266" width="670" height="676" key="search.everywhere.popup/0.23.1730.1097@0.23.1730.1097" timestamp="1576684999323" />
+    <state x="515" y="337" width="961" height="874" key="search.everywhere.popup/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580505974985" />
+    <state x="516" y="337" width="963" height="874" key="search.everywhere.popup/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580329866600" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/RMTextTool.java</url>
+          <line>772</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

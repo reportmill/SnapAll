@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../RM16/lib/poi-3.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../RM16/lib/eawt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../RM16/lib/spell.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

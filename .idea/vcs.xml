@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../ComicScript" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Puppets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RM15" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RM16" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../RMDraw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SnapBuilder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SnapCharts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SnapKit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SnapPDF" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SnapStudio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SnapTea" vcs="Git" />
+  </component>
+</project>
