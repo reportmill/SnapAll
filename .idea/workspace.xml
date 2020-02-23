@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1436424c-fd4c-4cbe-98f7-6fadeca276bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../SnapKit/src/snap/gfx/hyph_en_US.dic" beforeDir="false" afterPath="$PROJECT_DIR$/../SnapKit/src/snap/text/hyph_en_US.dic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMTextShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMTextShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SnapKit/src/snap/text/TextBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SnapKit/src/snap/text/TextBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SnapKit/src/snap/view/TextArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SnapKit/src/snap/view/TextArea.java" afterDir="false" />
     </list>
     <list id="ea230533-ded0-49bd-a8c1-1c6322ab9612" name="XUncommables" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +51,13 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../RM15/src/com/reportmill/app/RMEditorPane.java" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jmartin\Idea\SnapKit\src\snap\text" />
+      <recent name="C:\Users\jmartin\Idea\SnapKit\src\snap\viewx" />
+      <recent name="C:\Users\jmartin\Idea\RM16\src\reportmill\app\pkg.images" />
+      <recent name="C:\Users\jmartin\Idea\RM16\src\reportmill\app" />
+      <recent name="C:\Users\jmartin\Idea\RM16\src\reportmill\apptools" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="snap.text" />
       <recent name="snap.viewx" />
@@ -56,22 +65,15 @@
       <recent name="reportmill.out" />
       <recent name="reportmill.app" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../RM16/src/reportmill/app" />
-      <recent name="$PROJECT_DIR$/../RM16/src/reportmill" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="reportmill.apptools" />
       <recent name="reportmill.app" />
       <recent name="reportmill.util" />
       <recent name="com.reportmill.app" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\jmartin\Idea\SnapKit\src\snap\text" />
-      <recent name="C:\Users\jmartin\Idea\SnapKit\src\snap\viewx" />
-      <recent name="C:\Users\jmartin\Idea\RM16\src\reportmill\app\pkg.images" />
-      <recent name="C:\Users\jmartin\Idea\RM16\src\reportmill\app" />
-      <recent name="C:\Users\jmartin\Idea\RM16\src\reportmill\apptools" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../RM16/src/reportmill/app" />
+      <recent name="$PROJECT_DIR$/../RM16/src/reportmill" />
     </key>
   </component>
   <component name="RunManager" selected="Application.RM16">
@@ -266,6 +268,7 @@
       <workItem from="1582153923185" duration="12977000" />
       <workItem from="1582240005380" duration="11110000" />
       <workItem from="1582385226129" duration="26255000" />
+      <workItem from="1582421784733" duration="438000" />
     </task>
     <task id="LOCAL-00024" summary="RMFont: Got rid of this">
       <created>1580329063298</created>
@@ -631,7 +634,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Moved Excel stuff to out package" />
     <MESSAGE value="Move image file." />
     <MESSAGE value="Removed some RMXString references." />
     <MESSAGE value="Got rid of some RMTextStyle, RMXString references." />
@@ -656,7 +658,8 @@
     <MESSAGE value="Moved Text classes from snap.gfx to snap.text." />
     <MESSAGE value="Changed a bunch of RMFill references to be Paint, Color, GradientPaint, ImagePaint.&#10;Renamed RMGradientFillTool/RMImageFillTool to GradientPaintTool/ImagePaintTool.&#10;Removed RMGradientFill." />
     <MESSAGE value="Renamed graphics package to gfx." />
-    <option name="LAST_COMMIT_MESSAGE" value="Renamed graphics package to gfx." />
+    <MESSAGE value="Moved SnapKit geometry classes to separate package." />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved SnapKit geometry classes to separate package." />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="393" key="#RMDraw" timestamp="1580238449926">
@@ -845,10 +848,10 @@
     </state>
     <state x="100" y="123" width="1669" height="1217" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580330476493" />
     <state x="100" y="123" width="1672" height="1217" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580331373371" />
-    <state x="878" y="551" key="com.intellij.ide.util.TipDialog" timestamp="1582385255933">
-      <screen x="0" y="0" width="2436" height="1440" />
+    <state x="621" y="443" key="com.intellij.ide.util.TipDialog" timestamp="1582421815354">
+      <screen x="0" y="23" width="1722" height="1097" />
     </state>
-    <state x="621" y="443" key="com.intellij.ide.util.TipDialog/0.23.1722.1097@0.23.1722.1097" timestamp="1581173084320" />
+    <state x="621" y="443" key="com.intellij.ide.util.TipDialog/0.23.1722.1097@0.23.1722.1097" timestamp="1582421815354" />
     <state x="622" y="443" key="com.intellij.ide.util.TipDialog/0.23.1725.1097@0.23.1725.1097" timestamp="1576639432710" />
     <state x="894" y="565" key="com.intellij.ide.util.TipDialog/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580318964878" />
     <state x="894" y="565" key="com.intellij.ide.util.TipDialog/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1579466036791" />
@@ -880,9 +883,10 @@
     </state>
     <state x="359" y="344" width="670" height="675" key="run.anything.popup/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1577222455036" />
     <state x="352" y="326" width="658" height="686" key="run.anything.popup/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1582213101674" />
-    <state x="506" y="319" width="944" height="889" key="search.everywhere.popup" timestamp="1582412098323">
-      <screen x="0" y="0" width="2436" height="1440" />
+    <state x="358" y="266" width="670" height="678" key="search.everywhere.popup" timestamp="1582421883160">
+      <screen x="0" y="23" width="1722" height="1097" />
     </state>
+    <state x="358" y="266" width="670" height="678" key="search.everywhere.popup/0.23.1722.1097@0.23.1722.1097" timestamp="1582421883160" />
     <state x="359" y="266" width="670" height="676" key="search.everywhere.popup/0.23.1730.1097@0.23.1730.1097" timestamp="1576684999323" />
     <state x="515" y="337" width="961" height="874" key="search.everywhere.popup/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580505974985" />
     <state x="516" y="337" width="963" height="874" key="search.everywhere.popup/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580329866600" />
