@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1436424c-fd4c-4cbe-98f7-6fadeca276bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMTextShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMTextShape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SnapKit/src/snap/text/TextBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SnapKit/src/snap/text/TextBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SnapKit/src/snap/view/TextArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SnapKit/src/snap/view/TextArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SnapKit/src/snap/text/TextEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SnapKit/src/snap/text/TextEditor.java" afterDir="false" />
     </list>
     <list id="ea230533-ded0-49bd-a8c1-1c6322ab9612" name="XUncommables" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -268,14 +266,7 @@
       <workItem from="1582153923185" duration="12977000" />
       <workItem from="1582240005380" duration="11110000" />
       <workItem from="1582385226129" duration="26255000" />
-      <workItem from="1582421784733" duration="438000" />
-    </task>
-    <task id="LOCAL-00024" summary="RMFont: Got rid of this">
-      <created>1580329063298</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1580329063298</updated>
+      <workItem from="1582421784733" duration="1797000" />
     </task>
     <task id="LOCAL-00025" summary="Moved examples from RMDraw to RM16">
       <created>1580330271230</created>
@@ -613,7 +604,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582411803495</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Changed TextBox.setText to setRichText.">
+      <created>1582422294367</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1582422294368</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -634,7 +632,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Move image file." />
     <MESSAGE value="Removed some RMXString references." />
     <MESSAGE value="Got rid of some RMTextStyle, RMXString references." />
     <MESSAGE value="First stab at moving RPG to RM16." />
@@ -659,7 +656,8 @@
     <MESSAGE value="Changed a bunch of RMFill references to be Paint, Color, GradientPaint, ImagePaint.&#10;Renamed RMGradientFillTool/RMImageFillTool to GradientPaintTool/ImagePaintTool.&#10;Removed RMGradientFill." />
     <MESSAGE value="Renamed graphics package to gfx." />
     <MESSAGE value="Moved SnapKit geometry classes to separate package." />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved SnapKit geometry classes to separate package." />
+    <MESSAGE value="Changed TextBox.setText to setRichText." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed TextBox.setText to setRichText." />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="393" key="#RMDraw" timestamp="1580238449926">
@@ -703,10 +701,10 @@
     </state>
     <state x="1688" y="588" key="#xdebugger.evaluate/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1577559693973" />
     <state x="1657" y="574" key="#xdebugger.evaluate/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1582409562029" />
-    <state x="789" y="0" width="1647" height="1440" key="CommitChangelistDialog2" timestamp="1582411802223">
-      <screen x="0" y="0" width="2436" height="1440" />
+    <state x="885" y="217" width="1647" height="1440" key="CommitChangelistDialog2" timestamp="1582422293460">
+      <screen x="0" y="23" width="1722" height="1097" />
     </state>
-    <state x="896" y="217" key="CommitChangelistDialog2/0.23.1722.1097@0.23.1722.1097" timestamp="1581173333435" />
+    <state x="885" y="217" key="CommitChangelistDialog2/0.23.1722.1097@0.23.1722.1097" timestamp="1582422293460" />
     <state x="1291" y="273" width="1164" height="1154" key="CommitChangelistDialog2/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580519366428" />
     <state x="1293" y="273" key="CommitChangelistDialog2/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580332665708" />
     <state x="1294" y="273" key="CommitChangelistDialog2/0.23.2487.1417/-1792.23.1792.1097@0.23.2487.1417" timestamp="1580317261423" />
@@ -835,10 +833,10 @@
       <screen x="0" y="0" width="2436" height="1440" />
     </state>
     <state x="1048" y="592" key="VCS.EditChangelistDialog/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1581187634899" />
-    <state x="1304" y="434" key="Vcs.Push.Dialog.v2" timestamp="1582411806159">
-      <screen x="0" y="0" width="2436" height="1440" />
+    <state x="922" y="354" key="Vcs.Push.Dialog.v2" timestamp="1582422297299">
+      <screen x="0" y="23" width="1722" height="1097" />
     </state>
-    <state x="922" y="354" key="Vcs.Push.Dialog.v2/0.23.1722.1097@0.23.1722.1097" timestamp="1581173336428" />
+    <state x="922" y="354" key="Vcs.Push.Dialog.v2/0.23.1722.1097@0.23.1722.1097" timestamp="1582422297299" />
     <state x="1468" y="450" key="Vcs.Push.Dialog.v2/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580519369302" />
     <state x="1470" y="450" key="Vcs.Push.Dialog.v2/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580332668096" />
     <state x="1472" y="450" key="Vcs.Push.Dialog.v2/0.23.2487.1417/-1792.23.1792.1097@0.23.2487.1417" timestamp="1580317263581" />
