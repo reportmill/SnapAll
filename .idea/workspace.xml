@@ -2,22 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1436424c-fd4c-4cbe-98f7-6fadeca276bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/RMBorderStrokeTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/EdgeBorderTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/RMBorderStrokeTool.snp" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/EdgeBorderTool.snp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/RMFillTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/RMFillTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/RMStrokeTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/BorderTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/RMStrokeTool.snp" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/BorderTool.snp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/RMBorderStroke.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMArchiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMArchiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/ShapeFills.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/ShapeFills.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/BlurEffectTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/BlurEffectTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/BlurEffectTool.snp" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/BlurEffectTool.snp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/BorderTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/BorderTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/BorderTool.snp" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/BorderTool.snp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/EdgeBorderTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/EdgeBorderTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/EdgeBorderTool.snp" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/EdgeBorderTool.snp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/EffectTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/EffectTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/EmbossEffectTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/EmbossEffectTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/EmbossEffectTool.snp" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/EmbossEffectTool.snp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/GradientAxisPicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/GradientAxisPicker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/GradientPaintTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/GradientPaintTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/GradientPaintTool.snp" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/GradientPaintTool.snp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/GradientStopPicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/GradientStopPicker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/ImagePaintTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/ImagePaintTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/ImagePaintTool.snp" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/ImagePaintTool.snp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/RMFillTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/PaintTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/RMFillTool.snp" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/PaintTool.snp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/ReflectEffectTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/ReflectEffectTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/ReflectEffectTool.snp" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/ReflectEffectTool.snp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/ShadowEffectTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/ShadowEffectTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/ShadowEffectTool.snp" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/ShadowEffectTool.snp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/pkg.images/AddStopCursor.png" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/pkg.images/AddStopCursor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/pkg.images/Clouds.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/pkg.images/Clouds.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/pkg.images/Knob.png" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/pkg.images/Knob.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/pkg.images/KnobHilighted.png" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/pkg.images/KnobHilighted.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/pkg.images/Reverse.png" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/pkg.images/Reverse.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/pkg.images/ReversePressed.png" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/pkg.images/ReversePressed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/pkg.images/centered.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/pkg.images/inner_on1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/pkg.images/inner_on2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/pkg.images/outer_on2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SnapKit/src/snap/gfx/Border.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SnapKit/src/snap/gfx/Border.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SnapKit/src/snap/gfx/Borders.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SnapKit/src/snap/gfx/Borders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SnapKit/src/snap/view/TextArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SnapKit/src/snap/view/TextArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SnapStudio/src/studio/app/Editor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SnapStudio/src/studio/app/Editor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SnapStudio/src/studio/app/EditorClipboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SnapStudio/src/studio/app/EditorClipboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SnapStudio/src/studio/app/EditorUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SnapStudio/src/studio/app/EditorUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SnapStudio/src/studio/apptools/TextAreaTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SnapStudio/src/studio/apptools/TextAreaTool.java" afterDir="false" />
     </list>
     <list id="ea230533-ded0-49bd-a8c1-1c6322ab9612" name="XUncommables" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,15 +87,18 @@
       <recent name="snap.gfx.Borders" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="rmdraw.gfx" />
       <recent name="rmdraw.app" />
       <recent name="snap.text" />
       <recent name="snap.viewx" />
       <recent name="reportmill.util" />
-      <recent name="reportmill.out" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../RM16/src/reportmill/app" />
-      <recent name="$PROJECT_DIR$/../RM16/src/reportmill" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jmartin\Idea\RMDraw\src\rmdraw\gfx\pkg.images" />
+      <recent name="C:\Users\jmartin\Idea\RMDraw\src\rmdraw\gfx" />
+      <recent name="C:\Users\jmartin\Idea\SnapKit\src\snap\text" />
+      <recent name="C:\Users\jmartin\Idea\SnapKit\src\snap\viewx" />
+      <recent name="C:\Users\jmartin\Idea\RM16\src\reportmill\app\pkg.images" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="reportmill.apptools" />
@@ -86,12 +106,9 @@
       <recent name="reportmill.util" />
       <recent name="com.reportmill.app" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\jmartin\Idea\SnapKit\src\snap\text" />
-      <recent name="C:\Users\jmartin\Idea\SnapKit\src\snap\viewx" />
-      <recent name="C:\Users\jmartin\Idea\RM16\src\reportmill\app\pkg.images" />
-      <recent name="C:\Users\jmartin\Idea\RM16\src\reportmill\app" />
-      <recent name="C:\Users\jmartin\Idea\RM16\src\reportmill\apptools" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../RM16/src/reportmill/app" />
+      <recent name="$PROJECT_DIR$/../RM16/src/reportmill" />
     </key>
   </component>
   <component name="RunManager" selected="Application.RM16">
@@ -713,11 +730,11 @@
       <screen x="0" y="0" width="2436" height="1440" />
     </state>
     <state x="1023" y="429" key="#com.intellij.ide.util.MemberChooser/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1581188617750" />
-    <state x="424" y="499" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1582584532399">
+    <state x="424" y="499" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1583328337931">
       <screen x="0" y="0" width="2436" height="1440" />
     </state>
     <state x="432" y="514" key="#com.intellij.ide.util.PackageChooserDialog/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580504489947" />
-    <state x="424" y="499" key="#com.intellij.ide.util.PackageChooserDialog/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1582584532399" />
+    <state x="424" y="499" key="#com.intellij.ide.util.PackageChooserDialog/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583328337931" />
     <state x="669" y="411" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583287830839">
       <screen x="0" y="23" width="1722" height="1097" />
     </state>
@@ -727,12 +744,12 @@
       <screen x="0" y="0" width="2436" height="1440" />
     </state>
     <state x="1066" y="649" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1582846396961" />
-    <state x="524" y="466" width="471" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583287845884">
-      <screen x="0" y="23" width="1722" height="1097" />
+    <state x="741" y="581" width="471" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583328340626">
+      <screen x="0" y="0" width="2436" height="1440" />
     </state>
     <state x="524" y="466" width="471" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1722.1097@0.23.1722.1097" timestamp="1583287845884" />
     <state x="699" y="597" width="471" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580504495292" />
-    <state x="741" y="581" width="446" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1582584534539" />
+    <state x="741" y="581" width="446" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583328340626" />
     <state x="458" y="618" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1580263336257">
       <screen x="0" y="23" width="2481" height="1417" />
     </state>
@@ -766,18 +783,18 @@
       <screen x="0" y="23" width="2481" height="1417" />
     </state>
     <state width="436" height="466" key="DebuggerActiveHint/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1577559596949" />
-    <state x="2595" y="33" width="1595" height="1275" maximized="true" key="DiffContextDialog" timestamp="1582584731541">
+    <state x="2595" y="33" width="1595" height="1275" maximized="true" key="DiffContextDialog" timestamp="1583328522931">
       <screen x="2560" y="0" width="1796" height="1080" />
     </state>
     <state x="70" y="100" width="1401" height="903" key="DiffContextDialog/0.23.1725.1097@0.23.1725.1097" timestamp="1578339906594" />
     <state x="856" y="73" width="1624" height="1254" key="DiffContextDialog/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580503883934" />
-    <state x="2595" y="33" width="1595" height="1275" maximized="true" key="DiffContextDialog/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1582584731541" />
-    <state x="998" y="477" key="FileChooserDialogImpl" timestamp="1582412384386">
+    <state x="2595" y="33" width="1595" height="1275" maximized="true" key="DiffContextDialog/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583328522931" />
+    <state x="998" y="477" key="FileChooserDialogImpl" timestamp="1583328382323">
       <screen x="0" y="0" width="2436" height="1440" />
     </state>
-    <state x="998" y="477" key="FileChooserDialogImpl/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1582412384386" />
-    <state width="1680" height="235" key="GridCell.Tab.0.bottom" timestamp="1583289594144">
-      <screen x="0" y="23" width="1722" height="1097" />
+    <state x="998" y="477" key="FileChooserDialogImpl/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583328382323" />
+    <state width="2393" height="264" key="GridCell.Tab.0.bottom" timestamp="1583329146138">
+      <screen x="0" y="0" width="2436" height="1440" />
     </state>
     <state width="1680" height="235" key="GridCell.Tab.0.bottom/0.23.1722.1097@0.23.1722.1097" timestamp="1583289594144" />
     <state width="1680" height="235" key="GridCell.Tab.0.bottom/0.23.1725.1097@0.23.1725.1097" timestamp="1583289190850" />
@@ -785,9 +802,9 @@
     <state width="1827" height="407" key="GridCell.Tab.0.bottom/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580668656102" />
     <state width="1344" height="203" key="GridCell.Tab.0.bottom/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1579466024843" />
     <state width="1827" height="320" key="GridCell.Tab.0.bottom/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580352337156" />
-    <state width="2393" height="264" key="GridCell.Tab.0.bottom/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583280568327" />
-    <state width="1680" height="235" key="GridCell.Tab.0.center" timestamp="1583289594144">
-      <screen x="0" y="23" width="1722" height="1097" />
+    <state width="2393" height="264" key="GridCell.Tab.0.bottom/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583329146138" />
+    <state width="2393" height="264" key="GridCell.Tab.0.center" timestamp="1583329146138">
+      <screen x="0" y="0" width="2436" height="1440" />
     </state>
     <state width="1680" height="235" key="GridCell.Tab.0.center/0.23.1722.1097@0.23.1722.1097" timestamp="1583289594144" />
     <state width="1680" height="235" key="GridCell.Tab.0.center/0.23.1725.1097@0.23.1725.1097" timestamp="1583289190850" />
@@ -795,9 +812,9 @@
     <state width="1827" height="407" key="GridCell.Tab.0.center/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580668656101" />
     <state width="1344" height="203" key="GridCell.Tab.0.center/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1579466024842" />
     <state width="1827" height="320" key="GridCell.Tab.0.center/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580352337155" />
-    <state width="2393" height="264" key="GridCell.Tab.0.center/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583280568327" />
-    <state width="1680" height="235" key="GridCell.Tab.0.left" timestamp="1583289594144">
-      <screen x="0" y="23" width="1722" height="1097" />
+    <state width="2393" height="264" key="GridCell.Tab.0.center/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583329146138" />
+    <state width="2393" height="264" key="GridCell.Tab.0.left" timestamp="1583329146138">
+      <screen x="0" y="0" width="2436" height="1440" />
     </state>
     <state width="1680" height="235" key="GridCell.Tab.0.left/0.23.1722.1097@0.23.1722.1097" timestamp="1583289594144" />
     <state width="1680" height="235" key="GridCell.Tab.0.left/0.23.1725.1097@0.23.1725.1097" timestamp="1583289190849" />
@@ -805,9 +822,9 @@
     <state width="1827" height="407" key="GridCell.Tab.0.left/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580668656101" />
     <state width="1344" height="203" key="GridCell.Tab.0.left/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1579466024842" />
     <state width="1827" height="320" key="GridCell.Tab.0.left/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580352337147" />
-    <state width="2393" height="264" key="GridCell.Tab.0.left/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583280568327" />
-    <state width="1680" height="235" key="GridCell.Tab.0.right" timestamp="1583289594144">
-      <screen x="0" y="23" width="1722" height="1097" />
+    <state width="2393" height="264" key="GridCell.Tab.0.left/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583329146138" />
+    <state width="2393" height="264" key="GridCell.Tab.0.right" timestamp="1583329146138">
+      <screen x="0" y="0" width="2436" height="1440" />
     </state>
     <state width="1680" height="235" key="GridCell.Tab.0.right/0.23.1722.1097@0.23.1722.1097" timestamp="1583289594144" />
     <state width="1680" height="235" key="GridCell.Tab.0.right/0.23.1725.1097@0.23.1725.1097" timestamp="1583289190850" />
@@ -815,9 +832,9 @@
     <state width="1827" height="407" key="GridCell.Tab.0.right/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580668656102" />
     <state width="1344" height="203" key="GridCell.Tab.0.right/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1579466024843" />
     <state width="1827" height="320" key="GridCell.Tab.0.right/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580352337155" />
-    <state width="2393" height="264" key="GridCell.Tab.0.right/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583280568327" />
-    <state width="1680" height="235" key="GridCell.Tab.1.bottom" timestamp="1583289612902">
-      <screen x="0" y="23" width="1725" height="1097" />
+    <state width="2393" height="264" key="GridCell.Tab.0.right/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583329146138" />
+    <state width="2393" height="264" key="GridCell.Tab.1.bottom" timestamp="1583329145986">
+      <screen x="0" y="0" width="2436" height="1440" />
     </state>
     <state width="1680" height="235" key="GridCell.Tab.1.bottom/0.23.1722.1097@0.23.1722.1097" timestamp="1583289594041" />
     <state width="1680" height="235" key="GridCell.Tab.1.bottom/0.23.1725.1097@0.23.1725.1097" timestamp="1583289612902" />
@@ -825,9 +842,9 @@
     <state width="1827" height="320" key="GridCell.Tab.1.bottom/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580668656099" />
     <state width="1344" height="203" key="GridCell.Tab.1.bottom/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1579466024844" />
     <state width="1827" height="320" key="GridCell.Tab.1.bottom/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580332706304" />
-    <state width="2393" height="264" key="GridCell.Tab.1.bottom/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583254669193" />
-    <state width="1680" height="235" key="GridCell.Tab.1.center" timestamp="1583289612902">
-      <screen x="0" y="23" width="1725" height="1097" />
+    <state width="2393" height="264" key="GridCell.Tab.1.bottom/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583329145986" />
+    <state width="2393" height="264" key="GridCell.Tab.1.center" timestamp="1583329145986">
+      <screen x="0" y="0" width="2436" height="1440" />
     </state>
     <state width="1680" height="235" key="GridCell.Tab.1.center/0.23.1722.1097@0.23.1722.1097" timestamp="1583289594040" />
     <state width="1680" height="235" key="GridCell.Tab.1.center/0.23.1725.1097@0.23.1725.1097" timestamp="1583289612902" />
@@ -835,9 +852,9 @@
     <state width="1827" height="320" key="GridCell.Tab.1.center/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580668656098" />
     <state width="1344" height="203" key="GridCell.Tab.1.center/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1579466024844" />
     <state width="1827" height="320" key="GridCell.Tab.1.center/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580332706304" />
-    <state width="2393" height="264" key="GridCell.Tab.1.center/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583254669193" />
-    <state width="1680" height="235" key="GridCell.Tab.1.left" timestamp="1583289612902">
-      <screen x="0" y="23" width="1725" height="1097" />
+    <state width="2393" height="264" key="GridCell.Tab.1.center/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583329145986" />
+    <state width="2393" height="264" key="GridCell.Tab.1.left" timestamp="1583329145986">
+      <screen x="0" y="0" width="2436" height="1440" />
     </state>
     <state width="1680" height="235" key="GridCell.Tab.1.left/0.23.1722.1097@0.23.1722.1097" timestamp="1583289594040" />
     <state width="1680" height="235" key="GridCell.Tab.1.left/0.23.1725.1097@0.23.1725.1097" timestamp="1583289612902" />
@@ -845,9 +862,9 @@
     <state width="1827" height="320" key="GridCell.Tab.1.left/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580668656098" />
     <state width="1344" height="203" key="GridCell.Tab.1.left/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1579466024843" />
     <state width="1827" height="320" key="GridCell.Tab.1.left/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580332706304" />
-    <state width="2393" height="264" key="GridCell.Tab.1.left/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583254669193" />
-    <state width="1680" height="235" key="GridCell.Tab.1.right" timestamp="1583289612902">
-      <screen x="0" y="23" width="1725" height="1097" />
+    <state width="2393" height="264" key="GridCell.Tab.1.left/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583329145986" />
+    <state width="2393" height="264" key="GridCell.Tab.1.right" timestamp="1583329145986">
+      <screen x="0" y="0" width="2436" height="1440" />
     </state>
     <state width="1680" height="235" key="GridCell.Tab.1.right/0.23.1722.1097@0.23.1722.1097" timestamp="1583289594040" />
     <state width="1680" height="235" key="GridCell.Tab.1.right/0.23.1725.1097@0.23.1725.1097" timestamp="1583289612902" />
@@ -855,7 +872,7 @@
     <state width="1827" height="320" key="GridCell.Tab.1.right/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580668656099" />
     <state width="1344" height="203" key="GridCell.Tab.1.right/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1579466024844" />
     <state width="1827" height="320" key="GridCell.Tab.1.right/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580332706304" />
-    <state width="2393" height="264" key="GridCell.Tab.1.right/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583254669193" />
+    <state width="2393" height="264" key="GridCell.Tab.1.right/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583329145986" />
     <state x="828" y="381" key="MultipleFileMergeDialog" timestamp="1581517344362">
       <screen x="0" y="0" width="2436" height="1440" />
     </state>
@@ -916,12 +933,12 @@
     </state>
     <state x="240" y="472" width="905" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1577714499006" />
     <state x="236" y="456" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1582486338285" />
-    <state x="900" y="105" width="1319" height="1001" key="find.popup" timestamp="1583280267308">
+    <state x="900" y="105" width="1319" height="1001" key="find.popup" timestamp="1583328953771">
       <screen x="0" y="0" width="2436" height="1440" />
     </state>
     <state x="1554" y="295" width="864" height="985" key="find.popup/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580510910526" />
     <state x="1751" y="307" width="705" height="693" key="find.popup/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580352437349" />
-    <state x="900" y="105" width="1319" height="1001" key="find.popup/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583280267308" />
+    <state x="900" y="105" width="1319" height="1001" key="find.popup/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583328953771" />
     <state x="486" y="588" key="git4idea.ui.GitTagDialog" timestamp="1580075369577">
       <screen x="0" y="23" width="2481" height="1417" />
     </state>
