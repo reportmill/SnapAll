@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1436424c-fd4c-4cbe-98f7-6fadeca276bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/EditorStyler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/EditorStyler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/ShapeFills.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/ShapeFills.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/BlurEffectTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/BlurEffectTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/EffectTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/EffectTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/EmbossEffectTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/EmbossEffectTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/PaintTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/PaintTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/ReflectEffectTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/ReflectEffectTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/ShadowEffectTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/ShadowEffectTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/Styler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/Styler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/RMFill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/gfx/RMStroke.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMArchiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMArchiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMArchivers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMArchivers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="ea230533-ded0-49bd-a8c1-1c6322ab9612" name="XUncommables" comment="" />
@@ -291,14 +286,7 @@
       <workItem from="1583260525755" duration="4711000" />
       <workItem from="1583280134017" duration="1117000" />
       <workItem from="1583334654304" duration="8540000" />
-      <workItem from="1583371064373" duration="1677000" />
-    </task>
-    <task id="LOCAL-00038" summary="PDPainter: Fixed drawImage.">
-      <created>1581358714861</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1581358714861</updated>
+      <workItem from="1583371064373" duration="2457000" />
     </task>
     <task id="LOCAL-00039" summary="PDPainter: Basic text support.">
       <created>1581363838300</created>
@@ -636,7 +624,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583352225019</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Changed EffectTool to use Styler instead of Editor.">
+      <created>1583372832711</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1583372832711</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -667,7 +662,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Move RMDataSource to RM16.&#10;Move RMDoc Version, DataSource ivars to RM16." />
     <MESSAGE value="Added RMArchiver2 to better handle RM16 archival additions." />
     <MESSAGE value="Moved data classes to RM16 from RMDraw." />
     <MESSAGE value="Moved RMHTMLParser and RMRTFParser to RM16 from RMDraw." />
@@ -692,7 +686,8 @@
     <MESSAGE value="Moved Paint/Border/Effect tools to gfx package." />
     <MESSAGE value="Got rid of RMImageFill." />
     <MESSAGE value="BorderTool: Changed to be independent of PaintTool and Editor.&#10;Styler: Added abstraction to edit border attributes." />
-    <option name="LAST_COMMIT_MESSAGE" value="BorderTool: Changed to be independent of PaintTool and Editor.&#10;Styler: Added abstraction to edit border attributes." />
+    <MESSAGE value="Changed EffectTool to use Styler instead of Editor." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed EffectTool to use Styler instead of Editor." />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="393" key="#RMDraw" timestamp="1580238449926">
@@ -750,11 +745,12 @@
     </state>
     <state x="1688" y="588" key="#xdebugger.evaluate/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1577559693973" />
     <state x="1657" y="574" width="511" height="583" key="#xdebugger.evaluate/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583332642283" />
-    <state x="789" y="0" width="1647" height="1440" key="CommitChangelistDialog2" timestamp="1583352224233">
-      <screen x="0" y="0" width="2436" height="1440" />
+    <state x="803" y="23" width="1647" height="1440" key="CommitChangelistDialog2" timestamp="1583372832454">
+      <screen x="0" y="23" width="2481" height="1417" />
     </state>
     <state x="885" y="217" key="CommitChangelistDialog2/0.23.1722.1097@0.23.1722.1097" timestamp="1582422293460" />
     <state x="1291" y="273" width="1164" height="1154" key="CommitChangelistDialog2/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580519366428" />
+    <state x="803" y="23" key="CommitChangelistDialog2/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1583372832454" />
     <state x="1293" y="273" key="CommitChangelistDialog2/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580332665708" />
     <state x="1294" y="273" key="CommitChangelistDialog2/0.23.2487.1417/-1792.23.1792.1097@0.23.2487.1417" timestamp="1580317261423" />
     <state x="789" y="0" width="1647" height="1440" key="CommitChangelistDialog2/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583352224233" />
@@ -886,11 +882,12 @@
       <screen x="0" y="0" width="2436" height="1440" />
     </state>
     <state x="1048" y="592" key="VCS.EditChangelistDialog/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1581187634899" />
-    <state x="1304" y="434" key="Vcs.Push.Dialog.v2" timestamp="1583352226926">
-      <screen x="0" y="0" width="2436" height="1440" />
+    <state x="1328" y="450" key="Vcs.Push.Dialog.v2" timestamp="1583372837573">
+      <screen x="0" y="23" width="2481" height="1417" />
     </state>
     <state x="922" y="354" key="Vcs.Push.Dialog.v2/0.23.1722.1097@0.23.1722.1097" timestamp="1582422297299" />
     <state x="1468" y="450" key="Vcs.Push.Dialog.v2/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580519369302" />
+    <state x="1328" y="450" key="Vcs.Push.Dialog.v2/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1583372837573" />
     <state x="1470" y="450" key="Vcs.Push.Dialog.v2/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580332668096" />
     <state x="1472" y="450" key="Vcs.Push.Dialog.v2/0.23.2487.1417/-1792.23.1792.1097@0.23.2487.1417" timestamp="1580317263581" />
     <state x="1304" y="434" key="Vcs.Push.Dialog.v2/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583352226926" />
@@ -936,14 +933,14 @@
     </state>
     <state x="359" y="344" width="670" height="675" key="run.anything.popup/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1577222455036" />
     <state x="352" y="326" width="658" height="686" key="run.anything.popup/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1582213101674" />
-    <state x="515" y="337" width="962" height="875" key="search.everywhere.popup" timestamp="1583371511274">
+    <state x="515" y="337" width="962" height="875" key="search.everywhere.popup" timestamp="1583373196639">
       <screen x="0" y="23" width="2481" height="1417" />
     </state>
     <state x="358" y="266" width="670" height="678" key="search.everywhere.popup/0.23.1722.1097@0.23.1722.1097" timestamp="1583289458907" />
     <state x="359" y="266" width="672" height="678" key="search.everywhere.popup/0.23.1725.1097@0.23.1725.1097" timestamp="1583288905691" />
     <state x="359" y="266" width="670" height="676" key="search.everywhere.popup/0.23.1730.1097@0.23.1730.1097" timestamp="1576684999323" />
     <state x="515" y="337" width="961" height="874" key="search.everywhere.popup/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580505974985" />
-    <state x="515" y="337" width="962" height="875" key="search.everywhere.popup/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1583371511274" />
+    <state x="515" y="337" width="962" height="875" key="search.everywhere.popup/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1583373196639" />
     <state x="516" y="337" width="963" height="874" key="search.everywhere.popup/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580329866600" />
     <state x="506" y="319" width="944" height="889" key="search.everywhere.popup/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583363728248" />
   </component>
