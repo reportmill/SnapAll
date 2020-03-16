@@ -2,58 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1436424c-fd4c-4cbe-98f7-6fadeca276bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/app/KeysPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/app/KeysPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/app/Shell.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/app/Shell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/apptools/RMCrossTabTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/apptools/RMCrossTabTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/apptools/RMGraphTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/apptools/RMGraphTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/apptools/RMLabelsTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/apptools/RMLabelsTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/out/RMExcelSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/out/RMExcelSheet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/out/RMExcelWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/out/RMExcelWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/out/RMFillPdfr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/out/RMFillPdfr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/out/RMPDFWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/out/RMPDFWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/out/RMRTFWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/out/RMRTFWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/out/RMShapePdfr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/out/RMShapePdfr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/out/RMShapePdfrs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/out/RMShapePdfrs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/out/RMShapeTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/out/RMShapeTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMCrossTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMCrossTab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMCrossTabCell.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMCrossTabCell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMGraph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMGraphLegend.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMGraphLegend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMGraphRPGBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMGraphRPGBar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMGraphRPGLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMGraphRPGLine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMGraphRPGPie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMGraphRPGPie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMLabel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMLabel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMLabels.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMLabels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMPDFShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMPDFShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMSwitchShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMSwitchShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMTableRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMTableRow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/shape/ReportGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/shape/ReportGen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/shape/ReportGens.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/shape/ReportGens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/util/RMExtras.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/util/RMExtras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/EditorCopyPaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/EditorCopyPaster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/EditorDragDropper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/EditorDragDropper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/EditorInteractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/EditorInteractor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/EditorUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/EditorUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/RulerBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/RulerBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/Tool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/Tool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMGraphPartSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RM16/src/reportmill/shape/RMGraphPartSeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/ToolStyler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/ToolStyler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/Viewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/Viewer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/ViewerInteractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/app/ViewerInteractor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/RMDocumentTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/RMDocumentTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/RMPolygonShapeTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/RMPolygonShapeTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/TextTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/TextTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMDocument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMImageShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMImageShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMLineShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMLineShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMParentShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMParentShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMPolygonShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMPolygonShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/TextToolStyler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/apptools/TextToolStyler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMShapeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMShapeUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMSpringShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMSpringShape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMTextShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMTextShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMTextShapeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RMDraw/src/rmdraw/shape/RMTextShapeUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="ea230533-ded0-49bd-a8c1-1c6322ab9612" name="XUncommables" comment="" />
@@ -73,7 +26,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../RMDraw" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../RM16" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1TJRjGnXP7jDA49KQuy7tRTBDkV" />
@@ -339,13 +292,6 @@
       <workItem from="1583450447578" duration="2653000" />
       <workItem from="1583592855096" duration="31000" />
       <workItem from="1583592896244" duration="48725000" />
-    </task>
-    <task id="LOCAL-00054" summary="Moved RMTable and friends to RM16 from RMDraw.&#10;Moved DatasetKeyPanel to RM16 from RMDraw.">
-      <created>1582157658097</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1582157658097</updated>
     </task>
     <task id="LOCAL-00055" summary="Moved RMSwitchShape to RM16 from RMDraw.">
       <created>1582206901136</created>
@@ -683,7 +629,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584304544593</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="Some api cleanup.">
+      <created>1584323107340</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1584323107340</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -714,7 +667,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Moved getFontKey methods to ToolStyler from Tool." />
     <MESSAGE value="RMShape: Added unarchival hack for RMTextShape &lt;color&gt; tag." />
     <MESSAGE value="Moved Border subclasses to their own class, Borders." />
     <MESSAGE value="Border: Replaced set methods with copyFor methods." />
@@ -739,7 +691,8 @@
     <MESSAGE value="TextTool: Moved in editor TextEditor here from RMTextShape." />
     <MESSAGE value="TextTool: Moved TableText code to TableTextTool&#10;TableTextTool: Renamed from TextTool2" />
     <MESSAGE value="TextEditor: Added paintActiveText() from TextTool code." />
-    <option name="LAST_COMMIT_MESSAGE" value="TextEditor: Added paintActiveText() from TextTool code." />
+    <MESSAGE value="Some api cleanup." />
+    <option name="LAST_COMMIT_MESSAGE" value="Some api cleanup." />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="393" key="#RMDraw" timestamp="1580238449926">
@@ -799,12 +752,12 @@
     <state x="1688" y="588" key="#xdebugger.evaluate/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1577559693973" />
     <state x="1688" y="588" key="#xdebugger.evaluate/0.23.2481.1417/-1792.343.1792.1097@0.23.2481.1417" timestamp="1584298946237" />
     <state x="1657" y="574" width="511" height="583" key="#xdebugger.evaluate/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1583697813509" />
-    <state x="395" y="23" width="1070" height="1079" key="CommitChangelistDialog2" timestamp="1584304544500">
+    <state x="395" y="23" width="1070" height="1079" key="CommitChangelistDialog2" timestamp="1584323106877">
       <screen x="0" y="23" width="2481" height="1417" />
     </state>
     <state x="885" y="217" key="CommitChangelistDialog2/0.23.1722.1097@0.23.1722.1097" timestamp="1582422293460" />
     <state x="1291" y="273" width="1164" height="1154" key="CommitChangelistDialog2/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580519366428" />
-    <state x="395" y="23" width="1070" height="1079" key="CommitChangelistDialog2/0.23.2481.1417/-1792.343.1792.1097@0.23.2481.1417" timestamp="1584304544500" />
+    <state x="395" y="23" width="1070" height="1079" key="CommitChangelistDialog2/0.23.2481.1417/-1792.343.1792.1097@0.23.2481.1417" timestamp="1584323106877" />
     <state x="803" y="23" key="CommitChangelistDialog2/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1583373606803" />
     <state x="1293" y="273" key="CommitChangelistDialog2/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580332665708" />
     <state x="1294" y="273" key="CommitChangelistDialog2/0.23.2487.1417/-1792.23.1792.1097@0.23.2487.1417" timestamp="1580317261423" />
@@ -946,12 +899,12 @@
       <screen x="0" y="0" width="2436" height="1440" />
     </state>
     <state x="1048" y="592" key="VCS.EditChangelistDialog/2560.0.1796.1080/0.0.2436.1440@0.0.2436.1440" timestamp="1581187634899" />
-    <state x="1328" y="450" key="Vcs.Push.Dialog.v2" timestamp="1584304546051">
+    <state x="1328" y="450" key="Vcs.Push.Dialog.v2" timestamp="1584323591840">
       <screen x="0" y="23" width="2481" height="1417" />
     </state>
     <state x="922" y="354" key="Vcs.Push.Dialog.v2/0.23.1722.1097@0.23.1722.1097" timestamp="1582422297299" />
     <state x="1468" y="450" key="Vcs.Push.Dialog.v2/0.23.2481.1417/-1792.23.1792.1097@0.23.2481.1417" timestamp="1580519369302" />
-    <state x="1328" y="450" key="Vcs.Push.Dialog.v2/0.23.2481.1417/-1792.343.1792.1097@0.23.2481.1417" timestamp="1584304546051" />
+    <state x="1328" y="450" key="Vcs.Push.Dialog.v2/0.23.2481.1417/-1792.343.1792.1097@0.23.2481.1417" timestamp="1584323591840" />
     <state x="1328" y="450" key="Vcs.Push.Dialog.v2/0.23.2481.1417/348.1463.1792.1097@0.23.2481.1417" timestamp="1583373609093" />
     <state x="1470" y="450" key="Vcs.Push.Dialog.v2/0.23.2484.1417/-1792.23.1792.1097@0.23.2484.1417" timestamp="1580332668096" />
     <state x="1472" y="450" key="Vcs.Push.Dialog.v2/0.23.2487.1417/-1792.23.1792.1097@0.23.2487.1417" timestamp="1580317263581" />
